@@ -2,10 +2,11 @@
   "name": "indecision-app",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Theo Harris",
   "license": "MIT",
   "dependencies": {
     "babel-preset-env": "1.5.2",
     "babel-preset-react": "6.24.1"
-  }
+  },
+  "repository": "git@github.com:Theosaurus-Rex/indecision-app-react.git"
 }
